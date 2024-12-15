@@ -1,0 +1,39 @@
+body{
+    background-image: url(images/back.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-family: cursive;
+    font-size: 50px;
+    text-align: center;
+    color: aliceblue;
+}
+#but, #but-res{
+    font-size: 30px;
+    padding: 16px 30px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 20%;
+}
+h3{
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+
+#mainResult{
+    border: white 4px solid;
+}
+
+#but-res{
+    display: none;
+    margin-top: 20px;
+}
+
+img{
+    margin-left: 10px;
+}
